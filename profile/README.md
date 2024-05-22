@@ -1,1 +1,3 @@
 [![](https://gray-main-toad-36.mypinata.cloud/ipfs/QmYG8cch9aJb4ohU1eXPdxjzf5znMF8y7CGTVZZfnDHyzo)](https://app.moondao.com)
+
+MoonDAO is accelerating our multiplanetary future with an open platform to fund, collaborate, and compete on challenges that get us closer to a lunar settlement. We aim to bring a global community of space builders, hackers, and developers together into a thriving movement dedicated to making a self-sustaining, self-governing settlement on the Moon a reality. Join us by contributing to one of our repos, joining the [community in Discord](https://discord.gg/moondao), or by becoming a [MoonDAO member](https://app.moondao.com/join) to participate in governance.
